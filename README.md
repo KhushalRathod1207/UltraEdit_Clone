@@ -12,6 +12,8 @@ UltraEdit Clone project! UltraEdit is a powerful text editor designed for progra
 
 ![Screenshot 2024-09-07 103815](https://github.com/user-attachments/assets/d613d98a-bda7-46e0-ab9a-1dede71a6cec)
 
+# [Live Demo💥](https://khushalrathod1207.github.io/UltraEdit_Clone/)
+
 ## Description
 
 This project is a clone of the UltraEdit website, built using HTML, CSS, and JavaScript. The goal of this project is to recreate the design, layout, and basic functionality of the original UltraEdit site.
