@@ -2,7 +2,7 @@
 
 UltraEdit Clone project! UltraEdit is a powerful text editor designed for programmers, web developers, and others who work with code and text files.
 
-#  Preview
+##  Preview
 
 ![Screenshot 2024-09-07 103745](https://github.com/user-attachments/assets/41f334ee-091e-4b04-a11b-83c0a99c88e2)
 
@@ -12,18 +12,18 @@ UltraEdit Clone project! UltraEdit is a powerful text editor designed for progra
 
 ![Screenshot 2024-09-07 103815](https://github.com/user-attachments/assets/d613d98a-bda7-46e0-ab9a-1dede71a6cec)
 
-# Description
+## Description
 
 This project is a clone of the UltraEdit website, built using HTML, CSS, and JavaScript. The goal of this project is to recreate the design, layout, and basic functionality of the original UltraEdit site.
 
-# Tech-Stack-
+## Tech-Stack-
 
 ![Static Badge](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=black)
 
 
-# Features
+## Features
 
 - Responsive Design:   The site adjusts to different screen sizes and devices.
 - Interactive Elements:   Implemented with JavaScript to enhance user experience.
@@ -32,7 +32,7 @@ This project is a clone of the UltraEdit website, built using HTML, CSS, and Jav
 
 This project demonstrates my front-end development skills and understanding of building a real-world website layout.
 
-# Credits
+## Credits
   
 This project is created and maintained by [Khushal Rathod](https://github.com/KhushalRathod1207).
 
