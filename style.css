@@ -367,7 +367,7 @@ small {
 
 .l_boxes {
     display: grid;
-    grid-template-columns: repeat(4, 350px);
+    grid-template-columns: repeat(4, 300px);
     justify-content: center;
     align-content: center;
 
@@ -434,7 +434,7 @@ small {
 footer {
     display: grid;
     justify-content: center;
-    grid-template-columns: 700px 700px;
+    grid-template-columns:repeat(2, 630px);
     gap: 20px;
     /* margin: auto; */
     align-items: center;
