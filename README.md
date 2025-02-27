@@ -25,6 +25,37 @@ This project is a clone of the UltraEdit website, built using HTML, CSS, and Jav
 ![Static Badge](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=black)
 
 
+
+## 📂 Folder Structure
+
+
+```bash
+📁 UltraEdit_Clone/
+│── 📁 assets/      # Contains images, fonts, or other static files
+│── 📄 index.html   # Main HTML file
+│── 📄 style.css    # CSS file for styling
+│── 📄 script.js    # JavaScript file for interactivity
+│── 📄 README.md    # Documentation file (this file)
+```
+
+## 📜 How to Use
+
+Follow these steps to run code:
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/KhushalRathod1207/UltraEdit_Clone.git
+   ```
+2. Navigate to the project directory
+   ```sh
+   cd UltraEdit_Clone
+   ```
+
+3. Open index.html in a browser
+   ```sh
+   open index.html
+   ```
+
 ## Features
 
 - Responsive Design:   The site adjusts to different screen sizes and devices.
